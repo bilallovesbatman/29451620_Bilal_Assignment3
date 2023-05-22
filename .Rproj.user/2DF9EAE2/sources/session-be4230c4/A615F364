@@ -3,7 +3,7 @@
     "path": "C:/Users/User/Desktop/29451620_Bilal_Assignment3/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "4224399028",
     "contents": "",
     "dirty": false,
     "created": 1684733528920.0,
@@ -12,6 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
+<<<<<<< HEAD
         "cursorPosition": "2,0",
         "scrollLine": "0"
     },
@@ -21,6 +22,17 @@
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1684733726481,
+=======
+        "cursorPosition": "0,18",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684733626,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684733626221,
+>>>>>>> branch2
     "read_only": false,
     "read_only_alternatives": []
 }
