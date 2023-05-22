@@ -3,7 +3,7 @@
     "path": "C:/Users/User/Desktop/29451620_Bilal_Assignment3/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
-    "hash": "4224399028",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1684733528920.0,
@@ -27,12 +27,16 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684733626,
+    "lastKnownWriteTime": 1684734112,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
+<<<<<<< Updated upstream
     "last_content_update": 1684733626221,
 >>>>>>> branch2
+=======
+    "last_content_update": 1684734112,
+>>>>>>> Stashed changes
     "read_only": false,
     "read_only_alternatives": []
 }
